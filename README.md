@@ -1,2 +1,2 @@
 # LinkedList
-All codes of Linkedlist in java
+All codes in src folder
